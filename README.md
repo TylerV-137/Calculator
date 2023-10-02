@@ -1,12 +1,7 @@
 # Calculator
-Simple Calculator using Qt
+Simple Calculator using Qt and C++ code
 
 Integers and doubles.
 
-Calculates:
-+
--
-*
-/
-pow
-%
+Calculates: addition, subtraction, multiplication, division, pow and %
+
